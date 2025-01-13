@@ -21,4 +21,4 @@ Getting started is simple:
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/yourusername/lazyvim-dotfiles.git ~/.config/nvim
+   git clone https://github.com/ShayantanBose/lazyvim-dotfiles.git ~/.config/nvim/lua/plugins
